@@ -1,0 +1,15 @@
+.thumbnail img
+{
+    width: 100%;
+}
+
+.thumbnail
+{
+    padding: 0;
+    padding-bottom: 10px;
+}
+
+#login
+{
+    width: 30%;
+}

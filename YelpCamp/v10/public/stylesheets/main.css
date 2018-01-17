@@ -1,0 +1,36 @@
+.thumbnail img
+{
+    width: 100%;
+}
+
+.thumbnail
+{
+    padding: 0;
+    padding-bottom: 10px;
+}
+
+#login
+{
+    width: 30%;
+}
+
+
+#delete
+{
+  display: inline;
+  padding: 10px;
+}
+
+.delete
+{
+    color:#337ab7;
+    background:none;
+    border:none; 
+    outline: none;
+}
+
+.delete:hover
+{
+    
+    text-decoration: underline;
+}
